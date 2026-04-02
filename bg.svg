@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2548 945" preserveAspectRatio="xMidYMid" width="2548" height="945" style="shape-rendering: auto; display: block; background: rgb(255, 230, 158);">
+  <g>
+    <g transform="translate(1274 472.5)">
+      <g>
+        <path fill="#ffc600" d="M0 0L1911 0 L1795.7525983218711 653.6004938953529 Z"></path>
+        <path fill="#ffc600" d="M0 0L1463.910930800367 1228.3671221109764 L955.5000000000002 1654.9745466320621 Z"></path>
+        <path fill="#ffc600" d="M0 0L331.841667521504 1881.9676160063295 L-331.84166752150384 1881.9676160063295 Z"></path>
+        <path fill="#ffc600" d="M0 0L-955.4999999999995 1654.9745466320624 L-1463.9109308003667 1228.3671221109769 Z"></path>
+        <path fill="#ffc600" d="M0 0L-1795.752598321871 653.6004938953532 L-1911 2.340300033170592e-13 Z"></path>
+        <path fill="#ffc600" d="M0 0L-1795.7525983218711 -653.6004938953528 L-1463.9109308003676 -1228.367122110976 Z"></path>
+        <path fill="#ffc600" d="M0 0L-955.5000000000008 -1654.9745466320617 L-331.84166752150384 -1881.9676160063295 Z"></path>
+        <path fill="#ffc600" d="M0 0L331.84166752150315 -1881.9676160063298 L955.4999999999987 -1654.974546632063 Z"></path>
+        <path fill="#ffc600" d="M0 0L1463.9109308003665 -1228.367122110977 L1795.7525983218711 -653.6004938953527 Z"></path>
+        <path stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" fill="#ffffff" d="M0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0A0 0 0 0 0 0 0"></path>
+        <animateTransform repeatCount="indefinite" dur="2s" keyTimes="0;1" values="0 0 0;80 0 0" type="rotate" attributeName="transform"></animateTransform>
+      </g>
+    </g>
+    <g></g>
+  </g>
+</svg>
